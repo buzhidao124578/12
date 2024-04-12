@@ -4,7 +4,7 @@
   "sites": [
    {
 			"key": "101影院11",
-			"name": "📽101影院",
+			"name": "📽51吃瓜",
 			"type": 3,
 			"searchable": 0,
 			"quickSearch": 0,
@@ -12,7 +12,19 @@
 			"playerType": 2,
 			"api": "csp_a51CG"
 
-		},  {
+		},
+	     {
+			"key": "101影院11",
+			"name": "📽南瓜电影",
+			"type": 3,
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"playerType": 2,
+			"api": "csp_aNanGua"
+
+		},
+	  {
       "key": "商店",
       "name": "商店",
       "type": 3,
