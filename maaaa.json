@@ -2,17 +2,7 @@
   "spider": "./custom_spider.jar;md5;9d11e19fbe05a23d26b3b6869e7424ca",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-   {
-			"key": "吃瓜",
-			"name": "📽51吃瓜",
-			"type": 3,
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"playerType": 2,
-			"api": "csp_a51CG"
 
-		},
 	     {
 			"key": "南瓜电影",
 			"name": "📽南瓜电影",
@@ -22,6 +12,16 @@
 			"filterable": 0,
 			"playerType": 2,
 			"api": "csp_aNanGua"
+
+		},   {
+			"key": "吃瓜",
+			"name": "📽51吃瓜",
+			"type": 3,
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"playerType": 2,
+			"api": "csp_a51CG"
 
 		},
 	  {
